@@ -16,13 +16,12 @@ let budgetDay=money/30;
 console.log(budgetDay);
 
 
-/*money=prompt('Ваш месячный доход');
+money=prompt('Ваш месячный доход');
 console.log(money);
 addExpenses=prompt('Перечислите возможные расходы за рассчитываемый период через запяту');
 console.log(addExpenses);
 deposit=confirm('Есть ли у вас депозит в банке?');
 console.log(deposit);
-*/
 let expenses1=prompt('Введите обязательную статью расходов?');
 console.log(expenses1);
 let amount1=prompt('Во сколько это обойдется?');
